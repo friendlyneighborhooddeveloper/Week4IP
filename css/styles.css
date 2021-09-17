@@ -7,10 +7,11 @@ body{
     background-attachment: fixed;
     background-position: center;
     background-size: cover;
+    text-align: center;
+    text-decoration-color: lightslategray;
  }
 }
 .header1{
     text-align: center;
     font-family: 'Roboto Mono', monospace;
-    text-decoration-color: brown;
 }

@@ -7,7 +7,7 @@ The application allows the user to choose any topping they want and each topping
  Setup/Installation Requirements
 To acces the app all you need is a live link to the site , One does not rquire to install any dependencies or run a server. It is as simple as that.
 ## Known Bugs
-So for there are no known bugs on the current version
+So far there are no known bugs on the current version
 ## Technologies Used
 The technologies used include HTML CSS and JavaScript  ass the programming languages and also incorporated the use of jquery and bootstrap.
 ## Support and contact details
